@@ -1,0 +1,4 @@
+SetEnv MYSQL_USERNAME "tests"
+SetEnv MYSQL_PASSWORD "tests"
+SetEnv MYSQL_HOST "localhost"
+SetEnv MYSQL_DATABASE "register"
