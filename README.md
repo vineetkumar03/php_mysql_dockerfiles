@@ -32,5 +32,5 @@ CREATE TABLE IF NOT EXISTS register.`new_record` (
  PRIMARY KEY (`id`)
  );
 
-DATABASE CREDENTIALS IS AVIALABLE IN .htaccess file because connectivity using Environment variables.Put src file and run PHP CRUD application 
+If It code will run without docker then DATABASE CREDENTIALS IS AVIALABLE IN .htaccess file because connectivity using Environment variables .Put src file and run PHP CRUD application.  
 CREATD BY VINEET KUMAR
