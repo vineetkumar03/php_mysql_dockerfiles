@@ -1,4 +1,4 @@
-From  vineetkumar03/php:7.4-alpine
+FROM  vineetkumar03/php:7.4-alpine
 LABEL maintainer="vineet.wsd@nic.in"
 
 ADD src /app/public
