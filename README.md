@@ -32,5 +32,6 @@ CREATE TABLE IF NOT EXISTS register.`new_record` (
  PRIMARY KEY (`id`)
  );
 
-If It code will run without docker then DATABASE CREDENTIALS IS AVIALABLE IN .htaccess file because connectivity using Environment variables .Put src file and run PHP CRUD application.  
+If It code will run without docker then DATABASE CREDENTIALS IS AVIALABLE IN .htaccess file because connectivity using Environment variables .Put src file and run PHP CRUD application. 
+If PHP code shows some errors like "PHP - cannot modify header information - headers already sent by (output started at" then add ob_start(); at the start of all php files.
 CREATD BY VINEET KUMAR
